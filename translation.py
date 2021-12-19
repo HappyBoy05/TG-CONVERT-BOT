@@ -3,17 +3,13 @@ class Translation(object):
 
 #This will be appeared when anyone use start command
 
-      START = """Hello {0}
-
-I am a converter clone of [Convert Ns Bot](https://telegram.dog/convert_Ns_bot) by {1}
-
-I can convert file to video or video to file with custom thumbnail support.
+      START = """Hello, I Can Convert File to Video And Video to File with custom thumbnail support.
 """
 
 
 #This will be appeared when anyone use help command
 
-      HELP = """**Hey you need help 🤔 ?**
+      HELP = """**How To Use?**
 
 1. Send me the telegram file or video which you wanted to convert.
 
@@ -23,25 +19,13 @@ I can convert file to video or video to file with custom thumbnail support.
 
 4. Reply to file /converttovideo for converting into video.
 
-**SUPPORT GROUP:** [NS Bot Supporters](https://telegram.dog/Ns_Bot_supporters)
+**SUPPORT:** [HB4All Bot](https://t.me/hb4all_bot)
 """
 
 
 #Please don't change this about command 🙏
 
-      ABOUT = """
-**📝 Language:** Python 3
-
-**🧰 Framework:** Pyrogram
-
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
-
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
-
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
-
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
-
+      ABOUT = """I Am HB4All Bot For More @HB4All @HB4All_Bot
 """
 
 ####################################################################################################################################################
